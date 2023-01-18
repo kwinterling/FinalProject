@@ -11,7 +11,7 @@
 [COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset?resource=download) - found by Jyotsna Muppasani
 
 ## Software
-- Google Colab
+- Google Colab/ Jupyter Notebook
 - Tableau
 - SQL
 - Slack
