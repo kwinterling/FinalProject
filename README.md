@@ -8,5 +8,5 @@
 - Jyotsna Muppasani - https://github.com/JyotsnaMuppasani
 
 ## Dataset Sources
-[COVID19-Dataset-with-100-World-Countries] (https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset?resource=download) - found by Jyotsna Muppasani
+[COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset?resource=download) - found by Jyotsna Muppasani
 
