@@ -1,5 +1,5 @@
 # FinalProject
-## Colaborators
+## Collaborators
 - Karl Winterling - https://github.com/kwinterling
 - Meri Medel - https://github.com/memusic1523
 - Kathryn Bottenberg https://github.com/KathrynBottenberg
@@ -10,3 +10,9 @@
 ## Dataset Sources
 [COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset?resource=download) - found by Jyotsna Muppasani
 
+## Software
+- Google Colab
+- Tableau
+- SQL
+- Slack
+- Github
