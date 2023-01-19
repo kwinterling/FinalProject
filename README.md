@@ -28,8 +28,9 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
         - dtypes in correct format
         - 23 columns: Age, height(cm), weight(kg), waist(cm), eyesight(left), eyesight(right), hearing(left), hearing(right), Systolicre, laxation fasting blood sugar, Cholesterol, Triglyceride, High-Density Lipoprotein (HDL), Low-Density Lipoprotein (LDL), hemoglobin, Urine protein, serum creatinine, Aspartate, Transferase Blood Test (AST), Alanine Transaminase Blood Test (ALT), Gtp, dental caries, Smoking 
         Unique values
-age                     14
-weight(kg)              22
+| column | # of unique values |
+|age|14|
+|weight(kg)|22|
 systolic               125
 relaxation              94
 fasting blood sugar    258
