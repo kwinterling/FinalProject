@@ -28,6 +28,7 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
         - dtypes in correct format
         - 23 columns: Age, height(cm), weight(kg), waist(cm), eyesight(left), eyesight(right), hearing(left), hearing(right), Systolicre, laxation fasting blood sugar, Cholesterol, Triglyceride, High-Density Lipoprotein (HDL), Low-Density Lipoprotein (LDL), hemoglobin, Urine protein, serum creatinine, Aspartate, Transferase Blood Test (AST), Alanine Transaminase Blood Test (ALT), Gtp, dental caries, Smoking </br> </br>
         Unique values </br></br>
+        
 | column | # of unique values |
 | ------ | ------------------ |
 |  age   | 14 |
@@ -56,6 +57,7 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
         - dtypes in correct format
         - 22 columns: Age, height(cm), weight(kg), waist(cm), eyesight(left), eyesight(right), hearing(left), hearing(right), Systolicre, laxation fasting blood sugar, Cholesterol, Triglyceride, High-Density Lipoprotein (HDL), Low-Density Lipoprotein (LDL), hemoglobin, Urine protein, serum creatinine, Aspartate, Transferase Blood Test (AST), Alanine Transaminase Blood Test (ALT), Gtp, dental caries </br> </br>
         Unique values</br></br>
+        
 | column | # of unique values |
 | ------ | ------------------ |
 |  age   | 14 |
