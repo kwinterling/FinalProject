@@ -4,6 +4,7 @@
 - Meri Medel - https://github.com/memusic1523
 - Kathryn Bottenberg https://github.com/KathrynBottenberg
 - Zev Bennett - https://github.com/zevbennett
+    Roles: cleaned data
 - Kellen Finn - https://github.com/kelmo974
 - Jyotsna Muppasani - https://github.com/JyotsnaMuppasani
 
