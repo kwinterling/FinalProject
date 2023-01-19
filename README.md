@@ -8,7 +8,7 @@
 - Jyotsna Muppasani - https://github.com/JyotsnaMuppasani
 
 ## Dataset Sources
-[COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset?resource=download) - found by Jyotsna Muppasani
+Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle.com/datasets/gauravduttakiit/smoker-status-prediction)
 
 ## Software
 - Google Colab/ Jupyter Notebook
