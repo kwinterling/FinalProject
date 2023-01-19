@@ -13,6 +13,6 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
 ## Software
 - Google Colab/ Jupyter Notebook
 - Tableau
-- SQL
+- SQLite
 - Slack
 - Github
