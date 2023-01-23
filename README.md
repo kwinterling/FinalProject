@@ -8,6 +8,12 @@
 - Kellen Finn - https://github.com/kelmo974
 - Jyotsna Muppasani - https://github.com/JyotsnaMuppasani
 
+## Questions
+1. Can we predict a smoker based on certain variables? 
+2. What are the top variables which attribute to a smoker vs non smoker? 
+3. What health problems may be a factor from smoking?
+
+
 ## Dataset Sources
 Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle.com/datasets/gauravduttakiit/smoker-status-prediction)
 
