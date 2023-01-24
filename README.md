@@ -71,4 +71,4 @@ The below image illustrates the connection between the two tables and offers ins
 
    ![strictly_params metrics](https://user-images.githubusercontent.com/109499859/214213592-68f5727f-798f-4411-8979-b1e19a9ace4c.png)
         
- // will follow up with additional images and progress made in this department       
+      
