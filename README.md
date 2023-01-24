@@ -72,3 +72,23 @@ The below image illustrates the connection between the two tables and offers ins
    ![strictly_params metrics](https://user-images.githubusercontent.com/109499859/214213592-68f5727f-798f-4411-8979-b1e19a9ace4c.png)
         
       
+## Supervised ML:
+### Smoking - Naive Random Oversampling:
+![ Supervised_ML_Images/Smoking-Naive_Random_Oversampling]( Supervised_ML_Images/Smoking-Naive_Random_Oversampling.png)
+
+### Smoking - SMOTE Oversampling:
+![ Supervised_ML_Images/Smoking-SMOTE_Oversampling]( Supervised_ML_Images/Smoking-SMOTE_Oversampling.png)
+
+### Smoking – Undersampling:
+![Supervised_ML_Images/Smoking-Undersampling]( Supervised_ML_Images/Smoking-Undersampling.png)
+
+### Smoking - Combination (Over and Under) Sampling:
+![ Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling]( Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling.png)
+
+### Smoking - Easy Ensemble AdaBoost Classifier:
+![Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier]( Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier.png)
+
+### Smoking - Balanced Random Forest Classifier:
+
+![ Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier](Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier.png)
+* Accuracy of around 79%, precision of 80% and recall of 77% is achieved by using Balanced Random Forest Classifier. Hence Balanced Random Forest Classifier is best suited method for our ML model. 
