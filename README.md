@@ -48,6 +48,12 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
 
 
 ## A description of the analysis phase of the project
+- Why did you choose this model?
+- How will you train the model?
+- What’s the accuracy of the model?
+- How does the model work?
+- If statistics are involved, which ones will the analysis include, and why?
+- What would you include or change if you had more time?
 
 
 ## Project Setbacks/Lessons
