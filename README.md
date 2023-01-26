@@ -93,4 +93,4 @@ The below image illustrates the connection between the two tables and offers ins
 ![ Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier](Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier.png)
 * Accuracy of around 79%, precision of 80% and recall of 77% is achieved by using Balanced Random Forest Classifier. Hence Balanced Random Forest Classifier is best suited method for our ML model. 
 
-[Click here to see Google slide presentation](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
+[Google Slide Presentation of Smokers Analysis](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
