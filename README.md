@@ -62,7 +62,7 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
 
 
 ## Database Creation
-Many datasets were reviewed in the hopes of locating information that could tell a story about the overall health of smokers versus non-smokers. The robust set of quantitative data found in the Smokers Status Prediction dataset posted to Kaggle by Guarav Dutta offers the potential for the usage of various machine learning algorithms to train and classify the data. Identifying which health markers contribute the most to a smoker's overall health and/or lifespan will be the desired outcome of this effort. 
+Many datasets were reviewed in the hopes of locating information that could tell a story about the overall health of smokers versus non-smokers. The robust set of quantitative data found in the Smokers Status Prediction dataset posted to Kaggle by Guarav Dutta offers the potential for the use of various machine learning algorithms to train and classify the data. Identifying which health markers contribute the most to a smoker's overall health and/or lifespan will be the desired outcome of this effort. 
 
 After sourcing from Kaggle, the dataset underwent an inital cleaning and was then ready for import into a database. It was decided that the generic patient data, such as height and weight measurements, would be split into a table of their own. Data for the machine learning approach was to be held separately, but linked to to an individual's measurements via an ID number designated as the primary key.
 
