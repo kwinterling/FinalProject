@@ -99,3 +99,4 @@ The below image illustrates the connection between the two tables and offers ins
 ***Optimizing the Balanced Random Forest Classifier led to having Accuracy of around 80%, precision of 81%, recall of 78% and specificity of 82%. Hence with Balanced Random Forest Classifier our ML model is able to predict with 80% accuracy.***
 
 [Google Slide Presentation of Smokers Analysis](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
+[Tableau Public Visualizations](https://public.tableau.com/shared/Y53NN28B4?:display_count=n&:origin=viz_share_link)
