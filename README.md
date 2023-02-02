@@ -1,10 +1,10 @@
 # FinalProject
 ## Collaborators
-- Karl Winterling - https://github.com/kwinterling
-- Meri Medel - https://github.com/memusic1523
-- Kathryn Bottenberg https://github.com/KathrynBottenberg
+- Karl Winterling - https://github.com/kwinterling Role: Machine Learning Modeling
+- Meri Medel - https://github.com/memusic1523 Role: Visualization
+- Kathryn Bottenberg https://github.com/KathrynBottenberg Roles: Facilitator, Machine Learning Modeling, 
 - Zev Bennett - https://github.com/zevbennett
-    Roles: cleaned data
+    Roles: Data cleaning, Research
 - Kellen Finn - https://github.com/kelmo974
 - Jyotsna Muppasani - https://github.com/JyotsnaMuppasani
 
