@@ -33,7 +33,7 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
         - no null values
         - dtypes in correct format
         - 23 columns: Age, height(cm), weight(kg), waist(cm), eyesight(left), eyesight(right), hearing(left), hearing(right), Systolicre, laxation fasting blood sugar, Cholesterol, Triglyceride, High-Density Lipoprotein (HDL), Low-Density Lipoprotein (LDL), hemoglobin, Urine protein, serum creatinine, Aspartate, Transferase Blood Test (AST), Alanine Transaminase Blood Test (ALT), Gtp, dental caries, Smoking </br> </br>
-        ![image](train_unique_table.png)
+        ![image](images/train_unique_table.png)
 
     - train_dataset.csv
         - 16,708 rows
@@ -41,7 +41,7 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
         - no null values
         - dtypes in correct format
         - 22 columns: Age, height(cm), weight(kg), waist(cm), eyesight(left), eyesight(right), hearing(left), hearing(right), Systolicre, laxation fasting blood sugar, Cholesterol, Triglyceride, High-Density Lipoprotein (HDL), Low-Density Lipoprotein (LDL), hemoglobin, Urine protein, serum creatinine, Aspartate, Transferase Blood Test (AST), Alanine Transaminase Blood Test (ALT), Gtp, dental caries </br> </br>
-        ![image](test_unique_table.png)
+        ![image](imagestest_unique_table.png)
     
 ## A description of the data exploration phase of the project
 
