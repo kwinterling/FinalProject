@@ -47,20 +47,6 @@ Smoker status prediction: [Smoker Status Prediction | Kaggle](https://www.kaggle
 
 
 
-## A description of the analysis phase of the project
-- Why did you choose this model?
-- How will you train the model?
-- What’s the accuracy of the model?
-- How does the model work?
-- If statistics are involved, which ones will the analysis include, and why?
-- What would you include or change if you had more time?
-
-
-## Project Setbacks/Lessons
-- Intial dataset we wanted to use [COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset) would not work for machine learning because it had too many variables with repeating values (ie. the population variable would not change, even though it is a continuous vaule and deaths should attribute to it). What we learned is the exploritory process of the data, and knowing what models you plan to use with it, are an essential beginning part of the process. 
-
-
-
 ## Database Creation
 Many datasets were reviewed in the hopes of locating information that could tell a story about the overall health of smokers versus non-smokers. The robust set of quantitative data found in the Smokers Status Prediction dataset posted to Kaggle by Guarav Dutta offers the potential for the use of various machine learning algorithms to train and classify the data. Identifying which health markers contribute the most to a smoker's overall health and/or lifespan will be the desired outcome of this effort. 
 
@@ -98,5 +84,11 @@ The below image illustrates the connection between the two tables and offers ins
 
 ***Optimizing the Balanced Random Forest Classifier led to having Accuracy of around 80%, precision of 81%, recall of 78% and specificity of 82%. Hence with Balanced Random Forest Classifier our ML model is able to predict with 80% accuracy.***
 
+## Presentation Slides
 [Google Slide Presentation of Smokers Analysis](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
+
+## Visualizations
 [Tableau Public Visualizations](https://public.tableau.com/shared/Y53NN28B4?:display_count=n&:origin=viz_share_link)
+
+## Project Setbacks/Lessons
+- Intial dataset we wanted to use [COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset) would not work for machine learning because it had too many variables with repeating values (ie. the population variable would not change, even though it is a continuous vaule and deaths should attribute to it). What we learned is the exploritory process of the data, and knowing what models you plan to use with it, are an essential beginning part of the process. 
