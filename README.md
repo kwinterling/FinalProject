@@ -54,8 +54,12 @@ After sourcing from Kaggle, the dataset underwent an inital cleaning and was the
 
 The below image illustrates the connection between the two tables and offers insight to the datatype and formatting. This information would be useful in an attempt to query this data.
 
+![ERD_Segment2 2](https://user-images.githubusercontent.com/109499859/216783798-7f6fea8f-b485-48c8-a8c9-7eb4f21555cf.png)
 
-   ![strictly_params metrics](https://user-images.githubusercontent.com/109499859/214213592-68f5727f-798f-4411-8979-b1e19a9ace4c.png)
+Below, a basic filtered query of the dataset can be seen. All rows were successfully uploaded and datatypes conform to dataset structure.
+
+![hemoglobin_filter](https://user-images.githubusercontent.com/109499859/216783838-83fbd9f7-7892-4811-b84f-d9fc4f5d92cc.png)
+
         
       
 ## Supervised ML:
