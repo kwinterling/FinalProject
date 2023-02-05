@@ -92,7 +92,8 @@ Below, a basic filtered query of the dataset can be seen. All rows were successf
 [Google Slide Presentation of Smokers Analysis](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
 
 ## Visualizations
-[Tableau Public Visualizations](https://public.tableau.com/app/profile/meri.c.medel/viz/Dashboard-Smoking/db-factorsofsmokervsnon-smokers)
+[Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/meri.c.medel/viz/Dashboard-Smoking/db-factorsofsmokervsnon-smokers)
+[Tableau Public Visualization Story] (https://public.tableau.com/views/Story-Smokersvs_NonSmokers/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Project Setbacks/Lessons
 - Intial dataset we wanted to use [COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset) would not work for machine learning because it had too many variables with repeating values (ie. the population variable would not change, even though it is a continuous vaule and deaths should attribute to it). What we learned is the exploritory process of the data, and knowing what models you plan to use with it, are an essential beginning part of the process. 
