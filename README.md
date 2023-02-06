@@ -1,12 +1,11 @@
 # FinalProject
 ## Collaborators
-- Karl Winterling - https://github.com/kwinterling Role: Machine Learning Modeling
-- Meri Medel - https://github.com/memusic1523 Role: Visualization
-- Kathryn Bottenberg https://github.com/KathrynBottenberg Roles: Facilitator, Machine Learning Modeling, 
-- Zev Bennett - https://github.com/zevbennett
-    Roles: Data cleaning, Research
-- Kellen Finn - https://github.com/kelmo974
-- Jyotsna Muppasani - https://github.com/JyotsnaMuppasani
+- Karl Winterling - https://github.com/kwinterling Roles: Machine Learning Modeling
+- Meri Medel - https://github.com/memusic1523 Roles: Visualization
+- Kathryn Bottenberg https://github.com/KathrynBottenberg Roles: Facilitator, Machine Learning Modeling
+- Zev Bennett - https://github.com/zevbennett Roles: Data Cleaning, Research
+- Kellen Finn - https://github.com/kelmo974 Roles: Database Management
+- Jyotsna Muppasani - https://github.com/JyotsnaMuppasani Roles: Machine Learning Modeling
 
 ## Questions
 1. Can we predict a smoker based on certain variables? 
