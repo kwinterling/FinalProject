@@ -135,6 +135,8 @@ Later in the Project, we decided to try our best model (Balanced Random Forest) 
 
 ### What health problems may be a factor from smoking?
 - ***Hemoglobin Counts:*** An increase in counts has been shown to be a result of smoking.
-![image](Images/FinalVisualizations/Hemoglobin.png) 
+--------------add hempglobin graph--------------------
 - ***GTP Levels:*** An indicator of Atherosclerosis (Artery disease) can be caused by smoking.
+--------------add GTP graph----------------------
 - ***Triglyceride Levels:*** Triglyceride levels are higher in smoking populations than in non-smoking ones.
+--------------add Triglyceride graph------------------
