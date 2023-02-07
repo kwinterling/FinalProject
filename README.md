@@ -70,30 +70,30 @@ Initially, we as a team had decided to remove certain variables from our trainin
 ![image](Images/SVM.png)
 
 ### Naive Random Oversampling:
-![ Supervised_ML_Images/Smoking-Naive_Random_Oversampling]( Supervised_ML_Images/Smoking-Naive_Random_Oversampling.png)
+![ Supervised_ML_Images/Smoking-Naive_Random_Oversampling]( Images/Supervised_ML_Images/Smoking-Naive_Random_Oversampling.png)
 
 ### SMOTE Oversampling:
-![ Supervised_ML_Images/Smoking-SMOTE_Oversampling]( Supervised_ML_Images/Smoking-SMOTE_Oversampling.png)
+![ Supervised_ML_Images/Smoking-SMOTE_Oversampling]( Images/Supervised_ML_Images/Smoking-SMOTE_Oversampling.png)
 
 ### Undersampling:
-![Supervised_ML_Images/Smoking-Undersampling]( Supervised_ML_Images/Smoking-Undersampling.png)
+![Supervised_ML_Images/Smoking-Undersampling]( Images/Supervised_ML_Images/Smoking-Undersampling.png)
 
 ### Combination (Over and Under) Sampling:
-![ Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling]( Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling.png)
+![ Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling]( Images/Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling.png)
 
 ### Easy Ensemble AdaBoost Classifier:
-![Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier]( Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier.png)
+![Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier]( Images/Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier.png)
 
 ### Balanced Random Forest Classifier:
 
-![ Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier](Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier.png)
+![ Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier](Images/Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier.png)
 * Accuracy of around 79%, precision of 80% and recall of 77% is achieved by using Balanced Random Forest Classifier. Hence Balanced Random Forest Classifier is best suited method for our ML model. 
 
 Later in the Project, we decided to try our best model (Balanced Random Forest) with all variables in an attempt to optimize our model, but we were still only using the training dataset, leaving the testing data unused. 
 
 
 ## Optimizing the Balanced Random Forest Classifier:
-![Supervised_ML_Images/BRF](Supervised_ML_Images/BRF.png)
+![Supervised_ML_Images/BRF](Images/Supervised_ML_Images/BRF.png)
 
 ***Optimizing the Balanced Random Forest Classifier led to having Accuracy of around 80%, precision of 81%, recall of 78% and specificity of 82%. Hence with Balanced Random Forest Classifier our ML model is able to predict with 80% accuracy.***
 
