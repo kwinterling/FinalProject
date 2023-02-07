@@ -62,25 +62,35 @@ Below, a basic filtered query of the dataset can be seen. All rows were successf
         
       
 ## Supervised ML:
-### Smoking - Naive Random Oversampling:
+Initially, we as a team had decided to remove certain variables from our training data and were only using the training dataset for our ML models because we weren't sure how to utilize the testing data along with it, since we did not know the outcomes for that set. The variables we removed from the were: height, weight, waist,eyesight (left and right), and hearing (left and right).
+### Linear Regression
+![image](Images/linear_reg.png)
+
+### SVM Model
+![image](Images/SVM.png)
+
+### Naive Random Oversampling:
 ![ Supervised_ML_Images/Smoking-Naive_Random_Oversampling]( Supervised_ML_Images/Smoking-Naive_Random_Oversampling.png)
 
-### Smoking - SMOTE Oversampling:
+### SMOTE Oversampling:
 ![ Supervised_ML_Images/Smoking-SMOTE_Oversampling]( Supervised_ML_Images/Smoking-SMOTE_Oversampling.png)
 
-### Smoking – Undersampling:
+### Undersampling:
 ![Supervised_ML_Images/Smoking-Undersampling]( Supervised_ML_Images/Smoking-Undersampling.png)
 
-### Smoking - Combination (Over and Under) Sampling:
+### Combination (Over and Under) Sampling:
 ![ Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling]( Supervised_ML_Images/Smoking-Combination_(Over_and_Under)_Sampling.png)
 
-### Smoking - Easy Ensemble AdaBoost Classifier:
+### Easy Ensemble AdaBoost Classifier:
 ![Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier]( Supervised_ML_Images/Smoking-Easy_Ensemble_AdaBoost_Classifier.png)
 
-### Smoking - Balanced Random Forest Classifier:
+### Balanced Random Forest Classifier:
 
 ![ Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier](Supervised_ML_Images/Smoking-Balanced_Random_Forest_Classifier.png)
 * Accuracy of around 79%, precision of 80% and recall of 77% is achieved by using Balanced Random Forest Classifier. Hence Balanced Random Forest Classifier is best suited method for our ML model. 
+
+Later in the Project, we decided to try our best model (Balanced Random Forest) with all variables in an attempt to optimize our model, but we were still only using the training dataset, leaving the testing data unused. 
+
 
 ## Optimizing the Balanced Random Forest Classifier:
 ![Supervised_ML_Images/BRF](Supervised_ML_Images/BRF.png)
@@ -97,3 +107,30 @@ Below, a basic filtered query of the dataset can be seen. All rows were successf
 
 ## Project Setbacks/Lessons
 - Intial dataset we wanted to use [COVID19-Dataset-with-100-World-Countries](https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset) would not work for machine learning because it had too many variables with repeating values (ie. the population variable would not change, even though it is a continuous vaule and deaths should attribute to it). What we learned is the exploritory process of the data, and knowing what models you plan to use with it, are an essential beginning part of the process. 
+
+## Things to Consider Next Time
+
+- Pick a dataset where we have more information about where the data came from.
+    - Found interesting results like height and weight being a important factor.
+- Pick a dataset that is more reflective of the general population.
+    - Our dataset was ⅓ 40-44 year olds, which is not reflected of the general population
+    
+## Next Steps
+
+- Optimize Neural Network
+    - Challenges: Many unique values in each column, need to bin for many columns
+
+- Use Case: company selling quit smoking programs 
+
+## Summary
+### Can we predict a smoker based on certain variables? 
+- Can differentiate smokers and non-smokers - 95% accuracy
+- Can predict smokers through our model.
+
+### What are the top variables which attribute to a smoker vs non smoker? 
+![image](Images/smoking_variables.png)
+
+### What health problems may be a factor from smoking?
+***Hemoglobin Counts:*** An increase in counts has been shown to be a result of smoking.
+***GTP Levels:*** An indicator of Atherosclerosis (Artery disease) can be caused by smoking
+***Triglyceride Levels:*** Triglyceride levels are higher in smoking populations than in non-smoking ones
