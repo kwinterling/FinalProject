@@ -91,7 +91,7 @@ Below, a basic filtered query of the dataset can be seen. All rows were successf
 [Google Slide Presentation of Smokers Analysis](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
 
 ## Visualizations
-[Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/meri.c.medel/viz/Dashboard-Smoking/db-factorsofsmokervsnon-smokers)
+[Tableau Public Visualization Dashboard](https://public.tableau.com/app/profile/meri.c.medel/viz/Dashboard-Smoking/db-factorsofsmokervsnon-smokers) ([Alternate Link](https://public.tableau.com/views/SmokervsNonSmokervis_Dashboard/db-factorsofsmokervsnon-smokers?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 [Tableau Public Visualization Story](https://public.tableau.com/views/Story-Smokersvs_NonSmokers/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
