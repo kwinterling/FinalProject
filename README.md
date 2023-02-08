@@ -98,7 +98,18 @@ Later in the Project, we decided to try our best model (Balanced Random Forest) 
 ***Optimizing the Balanced Random Forest Classifier led to having Accuracy of around 80%, precision of 81%, recall of 78% and specificity of 82%. Hence with Balanced Random Forest Classifier our ML model is able to predict with 80% accuracy.***
 
 ## Optimizing using the testing_data.csv and training_data.csv
--------------WE NEED IMAGES AND A STORY HERE--------------------
+
+We were able to achieve around 94% accuracy, 89% precision and 95% recall, by merging the training and test datasets, programmatically separating them, and running Balanced Random Forest. Model performance is shown below:
+
+![BRF Optimal Performance](Images/Supervised_ML_Images/brf_optimal_performance.png)
+
+![BRF Feature Importances](Images/Supervised_ML_Images/brf_feature_importances.png)
+
+Removing demographically overrepresented subjects, those aged 40-45, did not significantly change model performance, as shown below:
+
+![BRF Optimal Performance (Drop Overrepresented Subjects)](Images/Supervised_ML_Images/brf_optimal_performance_drop_overrep.png)
+
+![BRF Feature Importances (Drop Overrepresented Subjects)](Images/Supervised_ML_Images/brf_feature_importances_drop_overrep.png)
 
 ## Presentation Slides
 [Google Slide Presentation of Smokers Analysis](https://docs.google.com/presentation/d/1J269H3gS8qX-RNoHSV9GkMj8ZjqVQy4Mau5pxhPjKhQ/edit)
